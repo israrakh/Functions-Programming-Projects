@@ -1,5 +1,6 @@
 // Functions Programming Projects.cpp : Contains two different programming projects(Properties of a Circle, and Inflation Trend)
 
+// Properties of a Circle Program
 #include <iostream>
 #include <cmath> // For using the sqrt()
 #include <iomanip>
